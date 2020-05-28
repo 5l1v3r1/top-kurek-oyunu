@@ -5,4 +5,4 @@
 
 
 #### Uygulama Görüntüsü
-![Labirent Oyunu](https://raw.githubusercontent.com/mustafadalga/top-kurek-oyunu/master/goruntu1.PNG)
+![Top Kürek Oyunu](https://raw.githubusercontent.com/mustafadalga/top-kurek-oyunu/master/goruntu1.PNG)
